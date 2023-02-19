@@ -1,2 +1,3 @@
 # the_basic
-O Um pouco de tudo
+
+Repositório que eu utilizo para guardar projetos de cursos, pessoais, etc...
